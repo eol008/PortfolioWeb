@@ -5,7 +5,7 @@ html {
   .navbar{
     position: fixed;
     top: 0;
-    width: 98.3vw;
+    max-width: 98.3vw;
     background: #024950;
     height: 50px;
     display: flex;
